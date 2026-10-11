@@ -143,12 +143,8 @@ Resultado esperado: La Serena (2012), Antofagasta (2003) y Santiago (2001).
 **Informe 2 – Patrimonio de clubes en pesos y dólares** (tipo de cambio $955 por dólar): nombre con la letra *a*, patrimonio superior a $200.000.000, tipo profesional, ordenados por código descendente.
 Resultado esperado: Huachipato (715) y Universidad de Chile (707).
 
-## Entregables
 
-- Documento Word con las capturas del MER-E (notación Barker) y del Modelo Relacional.
-- Archivo `.zip` con el modelo `.dmd` y su carpeta de recursos.
-- Script `.sql` con la implementación del modelo físico.
-- Video de presentación (máximo 7 minutos): `<enlace al video>`
+- Video de presentación : https://youtu.be/JArGMlsyqSY
 
 ## Autor
 
